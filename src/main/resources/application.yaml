@@ -6,7 +6,6 @@ spring:
     url: jdbc:mysql://sdadgz.cn:3307/student_system?useSSL=true&useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: sdadgz.cn
     type: com.alibaba.druid.pool.DruidDataSource
 mybatis-plus:
   configuration:
