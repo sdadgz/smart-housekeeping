@@ -23,7 +23,7 @@ public class Generator {
         String packagePath = "cn.sdadgz.smarthousekeeping";
 
         // 表名
-        String tableName = "user";
+        String tableName = "service";
 
         // 以后不用管了
         String outputDir = "src/main/java";
